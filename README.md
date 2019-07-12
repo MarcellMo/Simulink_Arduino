@@ -4,9 +4,7 @@ Example program for "custom" arduino simulink external mode
 
 Tested with Arduino Due board.
 
-Required Toolboxes:
-
-Simulink coder, Matlab coder, Embedded coder, Instrument control toolbox
+Required Toolboxes: Simulink coder, Matlab coder, Embedded coder, Instrument control toolbox
 
 Required Packages: Simulink Support Package for Arduino Hardware
 
